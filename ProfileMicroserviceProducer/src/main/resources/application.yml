@@ -8,7 +8,7 @@ spring:
 eureka:
     client:
       serviceUrl:
-        defaultZone: http://localhost:1111/eureka/
+        defaultZone: http://microservicediscoveryserve/eureka/
 
 # HTTP Server (Tomcat) Port
 server: 
